@@ -1,0 +1,17 @@
+C:\Backend\CwkSocial\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Application.deps.json
+C:\Backend\CwkSocial\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Application.dll
+C:\Backend\CwkSocial\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Application.pdb
+C:\Backend\CwkSocial\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Dal.dll
+C:\Backend\CwkSocial\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Domain.dll
+C:\Backend\CwkSocial\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Domain.pdb
+C:\Backend\CwkSocial\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Dal.pdb
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.csproj.AssemblyReference.cache
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.AssemblyInfoInputs.cache
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.AssemblyInfo.cs
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.csproj.CoreCompileInputs.cache
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\CwkSocia.B48E1D0A.Up2Date
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.dll
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\refint\CwkSocial.Application.dll
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.pdb
+C:\Backend\CwkSocial\CwkSocial.Application\obj\Debug\net8.0\ref\CwkSocial.Application.dll

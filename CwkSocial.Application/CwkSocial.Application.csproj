@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\CwkSocial.Domain\CwkSocial.Domain.csproj" />
+        <ProjectReference Include="..\CwkSocial.Dal\CwkSocial.Dal.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="13.0.1" />
+        <PackageReference Include="MediatR" Version="12.4.0" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="MappingProfiles\" />
+      <Folder Include="Posts\Queries\" />
+      <Folder Include="Posts\QueryHandlers\" />
+      <Folder Include="UserProfiles\CommandHandlers\" />
+      <Folder Include="UserProfiles\Commands\" />
+      <Folder Include="UserProfiles\Queries\" />
+      <Folder Include="UserProfiles\QueryHandlers\" />
+    </ItemGroup>
+
+</Project>
